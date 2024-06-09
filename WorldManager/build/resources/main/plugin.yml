@@ -1,0 +1,8 @@
+name: WorldManager
+version: '1.0.0'
+main: me.redblackflamez.worldmanager.WorldManager
+api-version: '1.20'
+
+commands:
+  worldmanager:
+    description: manage your worlds!
